@@ -1,0 +1,26 @@
+{
+  "lesson": 47,
+  "application": "Controlled Prompt Experiment",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "trials": [
+      {
+        "case": "tools",
+        "version": "brief",
+        "passed": true
+      },
+      {
+        "case": "tools",
+        "version": "explicit",
+        "passed": true
+      }
+    ],
+    "scores": {
+      "brief": 1,
+      "explicit": 1
+    },
+    "decision": "Keep the baseline when both versions tie; gather more evidence."
+  },
+  "measured_cost_usd": null
+}

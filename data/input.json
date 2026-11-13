@@ -1,0 +1,13 @@
+{
+  "cases": [
+    {
+      "id": "tools",
+      "question": "What does Glob return?",
+      "required": "paths"
+    }
+  ],
+  "versions": [
+    "brief",
+    "explicit"
+  ]
+}

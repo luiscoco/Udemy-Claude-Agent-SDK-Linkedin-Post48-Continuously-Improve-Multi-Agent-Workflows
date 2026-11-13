@@ -1,0 +1,16 @@
+{
+  "lesson": 47,
+  "title": "Continuously Improve Multi-Agent Workflows",
+  "application": "Controlled Prompt Experiment",
+  "purpose": "Compare two prompt versions on the same frozen cases and report paired outcomes without discarding failures.",
+  "exercise": "Add more independently labelled cases. Change only one prompt detail and compare paired results.",
+  "source_topics": [
+    "00-Flujo multiagente_ monitorización y mejora.png",
+    "01-Log-Every-Agent-Step.png",
+    "02-Track-Run-Statistics.png",
+    "03-Score-Outputs-with-a-Judge-Agent.png",
+    "04-Compare-Runs-and-Find-Patterns.png",
+    "05-Improve-Prompts-Routing-and-Retries.png",
+    "06-Build-a-Continuous-Quality-Loop.png"
+  ]
+}
